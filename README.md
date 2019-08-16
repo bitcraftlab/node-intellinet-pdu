@@ -18,7 +18,7 @@ Using this API Wrapper it is possible to control the PDU.
 
 ### See Also
 
-- [Python API] (https://github.com/01programs/Intellinet_163682_IP_smart_PDU_API)
+- [Python API](https://github.com/01programs/Intellinet_163682_IP_smart_PDU_API)
 
 ### Docs
 
