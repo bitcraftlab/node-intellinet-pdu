@@ -11,6 +11,7 @@ Using this API Wrapper it is possible to control the PDU.
 
 - Control via [OSC](https://www.npmjs.com/package/osc) (using [Processing](http://www.sojamo.de/libraries/oscP5/), [p5.js](https://github.com/lorenzoromagnoli/p5js-osc), ...)
 - Control via [MQTT](https://github.com/mqttjs/MQTT.js) (using [Processing](https://github.com/256dpi/processing-mqtt), [Node Red](https://nodered.org/), ...)
+- Control via [SNMP](https://www.npmjs.com/package/snmp-native) (using [Node-Red](https://flows.nodered.org/node/node-red-node-snmp) ...)
 
 ### License
 
