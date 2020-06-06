@@ -1,6 +1,6 @@
 {
-  "name": "intellinet-node",
-  "version": "0.0.1",
+  "name": "intellinet-pdu",
+  "version": "0.0.2",
   "description": "Intellinet Model 163682 8-Port PDU Controller",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "intellinet-pdu"
+    "url": "https://github.com/bitcraftlab/node-intellinet-pdu"
   },
   "keywords": [
     "pdu",
